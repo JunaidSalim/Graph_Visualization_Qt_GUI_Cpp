@@ -1,9 +1,9 @@
 # Graph_Visualization_Qt_GUI_Cpp
- This program takes density and no of vertices in a graph and then displays the graph.
+This program takes density and no of vertices in a graph and then displays the graph.
 
 
 **Introduction:**
-This C++ program is designed as a graph analysis and visualization tool, featuring a graphical user interface (GUI) built using the Qt framework. The tool generates a random graph based on user-defined parameters and provides functionalities for analyzing the graph, including degree calculation, identification of nodes with maximum and minimum degrees, display of the raw adjacency matrix, and finding neighbors of a given node.
+This C++ program is designed as a graph analysis and visualization tool, featuring a graphical user interface (GUI) built using the Qt C++ framework. The tool generates a random graph based on user-defined parameters and provides functionalities for analyzing the graph, including degree calculation, identification of nodes with maximum and minimum degrees, display of the raw adjacency matrix, and finding neighbors of a given node.
 
 **Features:**
 1. **Graph Generation:**
